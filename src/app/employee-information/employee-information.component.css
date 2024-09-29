@@ -1,0 +1,14 @@
+.title{
+    text-align: center;
+    border-style: hidden;
+    height: 80px;
+   
+    padding: 25px 50px 75px 100px; ;
+}
+
+.uploadimage{
+    height: 50px;
+    margin: auto;
+    padding: auto;
+
+}

@@ -1,0 +1,20 @@
+{
+  "StudentDB": [
+    {
+        "id": "1",
+        "firstName": "Prachi",
+        "lastName": "Hasbe",
+        "emailId": "Prachi@gmail.com",
+        "phoneno": "1231231234",
+        "newimg": " "
+    },
+    {
+        "id": "2",
+        "firstName": "anuja",
+        "lastName": "pisal",
+        "emailId": "anuja@gmail.com",
+        "phoneno": "9876543219",
+        "newimg": " "
+    }
+]
+}
